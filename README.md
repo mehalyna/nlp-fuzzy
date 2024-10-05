@@ -6,3 +6,23 @@ General approach outlined in this flowchart:
 
 ![flow](nlp_fuzzy.png)
 
+
+
+
+## Ideas:
+
+- telegram bot
+- web scraping ?
+- find better data
+- 
+- 
+ 
+
+## Topics:
+
+- semantic
+- disinformation
+- medicine?
+- sarcasm? 
+- movies?
+- 
