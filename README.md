@@ -22,7 +22,12 @@ General approach outlined in this flowchart:
 
 - semantic
 - disinformation
+- sarcasm
 - medicine?
-- sarcasm? 
 - movies?
-- 
+- text professionality 
+- manipulation in text
+- shortness/brevity of text
+- financial markers 
+
+
