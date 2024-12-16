@@ -29,5 +29,5 @@ General approach outlined in this flowchart:
 - manipulation in text
 - shortness/brevity of text
 - financial markers 
-
+- marketing: is product represented on market?
 
