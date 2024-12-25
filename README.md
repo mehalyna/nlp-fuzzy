@@ -20,9 +20,9 @@ General approach outlined in this flowchart:
 
 ## Topics:
 
-- semantic
+- semantic (emotion in text, energicity of text, ...)
 - disinformation
-- sarcasm
+- sarcasm (hard)
 - medicine?
 - movies?
 - text professionality 
