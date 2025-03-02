@@ -349,7 +349,6 @@ expert
 extraneous
 extroverted
 extra-large
-extra-small
 fabulous
 failing
 faint
@@ -415,7 +414,6 @@ frail
 frank
 frayed
 free
-French
 fresh
 frequent
 friendly
@@ -1053,7 +1051,6 @@ sorrowful
 soulful
 soupy
 sour
-Spanish
 sparkling
 sparse
 specific
