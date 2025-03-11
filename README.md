@@ -4,7 +4,7 @@ This is a repository for scientific ideas and solutions on the topic of fuzzy lo
 
 General approach outlined in this flowchart: 
 
-![flow](nlp_fuzzy.png)
+![flow](/images/nlp_fuzzy.png)
 
 
 
