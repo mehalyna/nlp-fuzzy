@@ -1,4 +1,4 @@
-# Application of Fuzzy Logic to Natural Language Processing
+# Science Repository
 
 This is a repository for scientific ideas and solutions on the topics of fuzzy logic, NLP, ML and other interesting areas of computer sciences.
 
