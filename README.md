@@ -1,24 +1,22 @@
 # Application of Fuzzy Logic to Natural Language Processing
 
-This is a repository for scientific ideas and solutions on the topic of fuzzy logic and NLP.
+This is a repository for scientific ideas and solutions on the topics of fuzzy logic, NLP, ML and other interesting areas of computer sciences.
 
-General approach outlined in this flowchart: 
+## Notebooks
 
-![flow](/images/nlp_fuzzy.png)
+- [😄 Fuzzy Logic application in NLP sentiment analysis](/src/semantic_fuzzy.ipynb)
+- [⚡ FL application in NLP sentiment analysis + energy](/src/semantic_two_dim.ipynb)
+- [Ⓜ️ Application of ML and Fuzzy Logic to mood detection in Texts](/src/semantic_fuzzy_ml.ipynb)
+- [🏛️ Application of ML and Fuzzy Logic to political analysis of Texts](/src/political-nlp.ipynb)
+- [😜 Sarcasm detection](/src/sarcasm_detection.ipynb)
+- [🤖 RAG system](/src/rag.ipynb)
+- [📈 Timeseries Analysis with FL](/src/time_series.ipynb)
+- [♟️ Generating Functions](/src/generating-functions.ipynb)
+- [✂️ Text Summarization (TBD)](/src/summarization.ipynb)
+- [💵 Fuzzy Utility](/src/fuzzy-utility.ipynb)
 
 
-
-
-## Ideas:
-
-- telegram bot
-- web scraping ?
-- find better data
-- 
-- 
- 
-
-## Topics:
+## Ideas (TODO):
 
 - Sentiment (emotion in text, energicity of text, ...)
 - disinformation 
