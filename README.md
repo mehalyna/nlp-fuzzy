@@ -14,6 +14,7 @@ This is a repository for scientific ideas and solutions on the topics of fuzzy l
 - [♟️ Generating Functions](/src/generating-functions.ipynb)
 - [✂️ Text Summarization (TBD)](/src/summarization.ipynb)
 - [💵 Fuzzy Utility](/src/fuzzy-utility.ipynb)
+- [🏃 Customer Churn Prevention](/src/churn-retail.ipynb)
 
 
 ## Ideas (TODO):
