@@ -38,7 +38,9 @@ Understand customer behaviors influencing churn and define variables critical fo
 
 *Objective*: Create a mathematical definition of customer utility based on <span style="color:red">Cumulative Prospect Theory (CPT)</span>.
 
-*Customer Utility Function (Example)*: $$ U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\times V(\text{Loss}) $$
+*Customer Utility Function (Example)*: 
+
+$$U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\times V(\text{Loss})try fix$$
 
 - Reference point (r): Current satisfaction or status quo (use Satisfaction_Score).
 - Gain: The perceived benefit from staying (continued good experience, incentives, convenience).
