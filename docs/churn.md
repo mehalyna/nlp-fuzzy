@@ -99,7 +99,7 @@ Explicitly integrates probability of churn with utility, optimizing intervention
 - Decision Rule:
 
 Intervene if:
-$ E[Utility] = P(churn)\times CLV - Cost_{intervention} > 0 $
+$E[Utility] = P(churn)\times CLV - Cost_{intervention} > 0$
 
 *Expected Benefit:* Optimizes spend by selecting customers for whom intervention provides positive expected value.
 
