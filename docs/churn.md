@@ -40,7 +40,7 @@ Understand customer behaviors influencing churn and define variables critical fo
 
 *Customer Utility Function (Example)*: 
 
-$$U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\times V(\text{Loss})try fix$$
+$$U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\times V(\text{Loss})$$
 
 - Reference point (r): Current satisfaction or status quo (use Satisfaction_Score).
 - Gain: The perceived benefit from staying (continued good experience, incentives, convenience).
