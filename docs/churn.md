@@ -154,3 +154,16 @@ Negative if churned after intervention (- Cost).
 - Pilot Bayesian Minimum Risk models to optimize campaign targeting effectiveness further.
 - Explore Contextual Bandits for continuous optimization once infrastructure and skills are ready.
 - Regularly review model outcomes and adjust utility parameters for maximum effectiveness.
+
+
+**6. More on ML with Utility Theory!**
+
+*Applying Specific Utility Theory Variant: Prospect Theory (CPT)*
+
+$$U(x) = \begin{cases} (x - r)^{\alpha}, & x \geq r \\ -\lambda (r - x)^{\beta}, & x < r \end{cases}$$
+
+- $x$ = outcome (e.g., perceived monetary or psychological benefit)
+- $r$ = reference point (current customer experience)
+- $\alpha$, $\beta$ represent sensitivity parameters for gains and losses
+- $\lambda$ represents loss-aversion (typically >1.0)
+
