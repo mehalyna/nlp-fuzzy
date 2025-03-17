@@ -160,7 +160,7 @@ Negative if churned after intervention (- Cost).
 
 *Applying Specific Utility Theory Variant: Prospect Theory (CPT)*
 
-$$U(x) = \begin{cases} (x - r)^{\alpha}, & x \geq r \\ -\lambda (r - x)^{\beta}, & x < r \end{cases}$$
+$$U(x) = \begin{cases} (x - r)^{\alpha}, & x \geq r \\ \newline -\lambda (r - x)^{\beta}, & x < r \end{cases}$$
 
 - $x$ = outcome (e.g., perceived monetary or psychological benefit)
 - $r$ = reference point (current customer experience)
