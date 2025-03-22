@@ -39,3 +39,4 @@ This is a repository for scientific ideas and solutions on the topics of fuzzy l
 - text summarizing (may be local news, etc.) (Dmitro)
 - Also: web parsing, + web app for text summarization 
 
+---
