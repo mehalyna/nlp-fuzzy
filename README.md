@@ -1,6 +1,6 @@
 # Science Repository
 
-This is a repository for scientific ideas and solutions on the topics of fuzzy logic, NLP, ML and other interesting areas of computer sciences.
+This is a repository for scientific ideas and research on the topics of fuzzy logic, NLP, ML and other interesting areas of computer sciences.
 
 ## Notebooks
 
