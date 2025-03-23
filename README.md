@@ -20,7 +20,7 @@ This is a repository for scientific ideas and research on the topics of fuzzy lo
 ## Ideas (TODO):
 
 - Sentiment (emotion in text, energicity of text, ...)
-- disinformation 
+- disinformation  
 - sarcasm (hard)
 - medicine?
 - movies?
