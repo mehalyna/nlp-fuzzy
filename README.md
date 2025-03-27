@@ -29,6 +29,24 @@ This is a repository for scientific ideas and research on the topics of fuzzy lo
     - [❤️ Heart Diseases Analysis](/src/medical-prediction.ipynb)
 
 
+## Our Team
+
+| Avatar | Name | GitHub Profile | Role |
+|--------|------|---------------|----|
+| ![Andrii](https://www.github.com/12-deadblue.png) | **Andrii Lazoryk** | [@12-deadblue](https://www.github.com/12-deadblue) | Hedgehog |
+| ![Valentyn](https://www.github.com/cryme666.png) | **Valentyn Vikovan** | [@cryme666](https://www.github.com/cryme666)| Hedgehog |
+| ![Anastasia](https://www.github.com/wanesssssty.png) | **Anastasia Rarenko** | [@wanesssssty](https://www.github.com/wanesssssty) | Hedgehog |
+| TBA | **Oleksandr Mykchailyk** | TBA | Hedgehog |
+| TBA | **Liza Kvasnytska** | TBA | Hedgehog |
+| TBA | **Dmytro** | TBA | Hedgehog |
+| TBA | **Kyryllo Krvatsov** | TBA | Hedgehog |
+| TBA | **Nicu** | TBA | Hedgehog |
+| ![Vasyl](https://www.github.com/maxvonlancaster.png) | **Vasyl Melnyk** | [@maxvonlancaster](https://www.github.com/maxvonlancaster) | Owl |
+
+
+
+
+
 ## Ideas (TODO):
 
 - Sentiment (emotion in text, energicity of text, ...)
