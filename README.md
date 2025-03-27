@@ -33,41 +33,18 @@ This is a repository for scientific ideas and research on the topics of fuzzy lo
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 200px; text-align: center;">
-    <img src="https://github.com/12-deadblue.png" width="100" height="100" style="border-radius: 50%;">
-    <h3>Andrii Lazoryk</h3>
-    <p><a href="https://github.com/12-deadblue">@12-deadblue</a></p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 200px; text-align: center;">
-    <img src="https://github.com/cryme666.png" width="100" height="100" style="border-radius: 50%;">
-    <h3>Valentyn Vikovan</h3>
-    <p><a href="https://github.com/cryme666">@cryme666</a></p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 200px; text-align: center;">
-    <img src="https://github.com/wanesssssty.png" width="100" height="100" style="border-radius: 50%;">
-    <h3>Anastasia Rarenko</h3>
-    <p><a href="https://github.com/wanesssssty">@wanesssssty</a></p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 200px; text-align: center;">
-    <img src="https://github.com/maxvonlancaster.png" width="100" height="100" style="border-radius: 50%;">
-    <h3>Vasyl Melnyk</h3>
-    <p><a href="https://github.com/maxvonlancaster">@maxvonlancaster</a></p>
-</div>
-
-</div>
-
 | Avatar | Name | GitHub Profile | Role |
 |--------|------|---------------|----|
+| <img src="https://www.github.com/12-deadblue.png" width="50" height="50"> | **Andrii Lazoryk** | [@12-deadblue](https://www.github.com/12-deadblue) | Hedgehog |
+| <img src="https://www.github.com/cryme666.png" width="50" height="50">  | **Valentyn Vikovan** | [@cryme666](https://www.github.com/cryme666)| Hedgehog |
+| <img src="https://www.github.com/wanesssssty.png" width="50" height="50"> | **Anastasia Rarenko** | [@wanesssssty](https://www.github.com/wanesssssty) | Hedgehog |
 | TBA | **Oleksandr Mykchailyk** | TBA | Hedgehog |
 | TBA | **Liza Kvasnytska** | TBA | Hedgehog |
 | TBA | **Dmytro** | TBA | Hedgehog |
 | TBA | **Kyryllo Krvatsov** | TBA | Hedgehog |
 | TBA | **Nicu** | TBA | Hedgehog |
+| <img src="https://www.github.com/maxvonlancaster.png" width="50" height="50">  | **Vasyl Melnyk** | [@maxvonlancaster](https://www.github.com/maxvonlancaster) | Owl |
+
 
 
 ## Ideas (TODO):
