@@ -4,17 +4,18 @@ This is a repository for scientific ideas and research on the topics of fuzzy lo
 
 ## Notebooks
 
-- [😄 Fuzzy Logic application in NLP sentiment analysis](/src/semantic_fuzzy.ipynb)
-- [⚡ FL application in NLP sentiment analysis + energy](/src/semantic_two_dim.ipynb)
+- [😄 Fuzzy Logic application in NLP sentiment analysis](/src/semantic_fuzzy.ipynb) by @mehalyna
+- [⚡ FL application in NLP sentiment analysis + energy](/src/semantic_two_dim.ipynb) by @mehalyna
 - [Ⓜ️ Application of ML and Fuzzy Logic to mood detection in Texts](/src/semantic_fuzzy_ml.ipynb)
-- [🏛️ Application of ML and Fuzzy Logic to political analysis of Texts](/src/political-nlp.ipynb)
+- [🏛️ Application of ML and Fuzzy Logic to political analysis of Texts](/src/political-nlp.ipynb) by @12-deadblue
 - [😜 Sarcasm detection](/src/sarcasm_detection.ipynb)
-- [🤖 RAG system](/src/rag.ipynb)
-- [📈 Timeseries Analysis with FL](/src/time_series.ipynb)
-- [♟️ Generating Functions](/src/generating-functions.ipynb)
+- [🤖 RAG system](/src/rag.ipynb) by @wanesssssty
+- [📈 Timeseries Analysis with FL](/src/time_series.ipynb) by @cryme666
+- [♟️ Generating Functions](/src/generating-functions.ipynb) by @12-deadblue
 - [✂️ Text Summarization (TBD)](/src/summarization.ipynb)
 - [💵 Fuzzy Utility](/src/fuzzy-utility.ipynb)
-- [🏃 Customer Churn Prevention](/src/churn-retail.ipynb)
+- [🏃 Customer Churn Prevention](/src/churn-retail.ipynb) by @mehalyna
+- [❤️ Heart Diseases Analysis](/src/medical-prediction.ipynb)
 
 
 ## Ideas (TODO):
